@@ -1,6 +1,11 @@
 Chenzi Wang
 cwang493
-Assignment 4: Markov Decision Processes
+ Markov Decision Processes
+ 
+The file cwang493 analysis.pdf contain:
+
+A description of my MDPs and why they are interesting.
+A discussion of my experiments.
 
 Instuctions:
 The code uses Matlab with MDPtoolbox Version 1.6 downloaded from:
